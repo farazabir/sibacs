@@ -679,7 +679,7 @@ img {
  LATEST COURSES SECTION
 ====================*/
 #mu-latest-courses {
-  background-color: rgb(1, 186, 253);
+  background-color: rgb(1, 253, 95);
   display: inline;
   float: left;
   padding: 100px 0;
@@ -811,7 +811,7 @@ img {
   float: left;
   padding: 100px 0;
   width: 100%;
-  background:black;
+  background:#01bafd;
 }
 #mu-our-teacher .mu-our-teacher-area {
   display: inline;
@@ -916,7 +916,7 @@ img {
 ====================*/
 #mu-testimonial {
   background-attachment: fixed;
-  background-image: url("../img/testimonial-bg.jpg");
+  background-image: url("../img/bg2.jpg");
   background-position: center center;
   background-size: cover;
   display: inline;
